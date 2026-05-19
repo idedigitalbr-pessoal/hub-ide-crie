@@ -1,0 +1,6 @@
+{
+  "name": "IDE Hub",
+  "description": "Plataforma multi-módulo acadêmica e corporativa, englobando LMS, Recrutamento, Projetos e CRM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
